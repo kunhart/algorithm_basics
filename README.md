@@ -1,1 +1,3 @@
-# algorithm_basics
+# Algorithm Basics
+
+I've been taking an introductory computer science algorithms course, reviewing basic algorithms that form the foundations of tools with applications across many industries.  This repository is my effort to translate algorithm pseudocode into real code implementations.  All are completed in Python.  The test case of each algorithm is included in its implementation file as a function call.  Happy learning!
