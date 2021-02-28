@@ -2,7 +2,9 @@
 
 #A mergesort example. A classic example of a divide-and-conquer approach to an algorithm. 
 #It works by dividing up the input array of unsorted integers into halves recursively until there are only arrays of 1 or 2 elements.
-#It then combines each pair of halves into a sorted whole, starting from base case up each level of recersion.
+#It then combines each pair of halves into a sorted whole, starting from base case up each level of recursion.
+#Input: an array A of n integers
+#Output: array A with the same n integers, sorted in increasing order
 
 def mergesort(A):
 	length = len(A)

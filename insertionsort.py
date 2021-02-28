@@ -1,4 +1,4 @@
-#Insertion Sort Example
+#InsertionSort
 #
 #A simple example of insertion sort.  
 #Input: an array A of n integers
